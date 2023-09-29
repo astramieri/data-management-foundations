@@ -1,0 +1,3 @@
+# Data Management Strategy
+
+Oracle Database is a converged database that provides best of breed support for all different data models and workloads that you need. When you have converged support for application development, you eliminate data fragmentation. You can perform unique queries and transactions that span any data and create value across all data types and build into your applications. This also includes structured and unstructured data. The Oracle converged database has the best of breed for JSON, graph, and text while including other data types, relations, blockchain, spatial, and others.
