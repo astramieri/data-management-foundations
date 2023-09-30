@@ -4,4 +4,4 @@ Note-taking repository for Oracle Cloud Infrastructure (OCI) foundations.
 
 Data Management Introduction
 
-- [Data Management Strategy](../images/strategy.md)
+- [Data Management Strategy](../images/data_management.md)
