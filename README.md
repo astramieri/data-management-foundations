@@ -4,5 +4,6 @@ Note-taking repository for Oracle Cloud Infrastructure (OCI) foundations.
 
 Data Management Introduction
 
-- [Data Management Strategy](../images/data_management.md)
-- [Oracle Database Offering](../images/database_offering.md)
+- [Data Management Strategy](../docs/data_management.md)
+- [Oracle Database Offering](../docs/database_offering.md)
+- [Multicloud Strategy](../docs/multi_cloud.md)
