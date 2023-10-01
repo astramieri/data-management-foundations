@@ -11,4 +11,5 @@ Data Management Introduction
 
 Autonomous Database (ADB)
 
-- [ADB Introduction](../docs/adb_introduction.md)
+- [Introduction](../docs/adb_introduction.md)
+- [Provisioning](../docs/adb_provisioning.md)
