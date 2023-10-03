@@ -36,6 +36,12 @@ Advantages:
 
 Oracle simplifies microservice architecture by allowing each service to store its data in logically separate data containers called **pluggable database or PDB**, providing all of the isolation and independence needed in a microservices architecture. Just as you would deploy your applications or services using Kubernetes containers, you can deploy the database for those services as pluggable database, making microservices simple. 
 
-## 
+## Converged Database Architecture
 
- One **Converged Database** for all data types and models engineered to work together. one converged database greatly simplifies development and operations. So this concludes our lesson today.
+The general strategy at Oracle is to build a **single-converged database architecture** that can handle multiple types of data and different types of workloads over that data. It can store relational, JSON, XML, graph, and spatial data.
+
+And then you can build both interactive transactional applications or analytic and reporting applications over that data. And we aren't saying here that we think all your data should actually go in one database. But there are both technical and practical advantages to have all your data under one database architecture.
+
+Avoid inefficiencies associated with moving data between systems, one query language, one set of skills required to use the database, one security model. 
+
+![Converged Database](../images/converged_database.png)
