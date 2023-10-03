@@ -22,3 +22,4 @@ Converged Database
 - [Introduction](./docs/converged_database.md)
 - [JSON Database](./docs/json_database.md)
 - [Graph Database](./docs/graph_database.md)
+- [Spatial Database](./docs/spatial_database.md)
