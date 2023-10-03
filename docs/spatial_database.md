@@ -16,4 +16,10 @@ Oracle spatial offering consists of three parts:
 
 Spatial Studio has an intuitive browser-based self service drag and drop user interface. It's designed to enable analysts and nontechnical users to get started with creating maps and performing spatial analysis without writing a single line of code.
 
-Spatial included with the Autonomous Database without any additional cost but requires additional compute resources. It is available as a deployable JEE application on the Oracle Cloud marketplace. 
+With Spatial Studio, you can also convert address data to coordinates so that you can plot the locations on a map. This operation called geocoding leverages the Oracle Maps Cloud service in the background. So the user doesn't need to manage the reference data locally in their database.
+
+Spatial Studio also helps developers because it provides a graphical user interface for data preparation, for index creation, and for data publishing. But most importantly, it supports the developer in creating spatial analysis or analytic workflows, which would otherwise be difficult to code, at least for the novice programmer.
+
+## Spatial Offering
+
+Spatial is included with the Autonomous Database without any additional cost but requires additional compute resources. It is available as a deployable JEE application on the Oracle Cloud marketplace. 
