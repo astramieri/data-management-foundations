@@ -1,4 +1,4 @@
-# Simplifiy Application Development
+# Converged Database
 
 Application Development has become more and more complex. Developers face a whole new set of requirements for enterprise apps. Apps not only had to capture information on what customers were doing, but they had to also anticipate customers' needs, and allow the business to create value or insights from data in real time.
 
