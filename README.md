@@ -20,3 +20,4 @@ Autonomous Database (ADB)
 Converged Database 
 
 - [Introduction](./docs/converged_database.md)
+- [JSON Database](./docs/json_database.md)
