@@ -50,6 +50,8 @@ Reference architectures:
 
 RAC is clustering technology to spread your different nodes across your different servers, so you don't have a single point of failure. From a scalability standpoint and performance standpoint, you get a lot of benefit associated with that. You constantly add a new node whenever you want to without experiencing any downtime.
 
+RAC utilizes two or more instances of an Oracle Database concurrently.
+
 ![Real Application Cluster](../images/rac.png)
 
 ## Transparent Application Continuity (TAC)
