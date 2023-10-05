@@ -29,3 +29,7 @@ Developing on Oracle Database
 - [Rest APIs](./docs/rest_apis.md)
 - [Built In Tools](./docs/adb_tools.md)
 - [Oracle APEX](./docs/apex.md)
+
+Resiliency
+
+- [Maximum Security Architecture](./docs/maximum_security.md)
