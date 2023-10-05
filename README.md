@@ -33,3 +33,4 @@ Developing on Oracle Database
 Resiliency
 
 - [Maximum Security Architecture](./docs/maximum_security.md)
+- [Maximum Availability Architecture](./docs/maximum_availability.md)
