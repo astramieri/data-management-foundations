@@ -34,3 +34,7 @@ Resiliency
 
 - [Maximum Security Architecture](./docs/maximum_security.md)
 - [Maximum Availability Architecture](./docs/maximum_availability.md)
+
+Data Lake, Data Warehouse, Machine Learning
+
+- [Data Lakehouse on OCI](./docs/data_lakehouse.md)
