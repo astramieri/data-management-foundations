@@ -38,3 +38,4 @@ Resiliency
 Data Lake, Data Warehouse, Machine Learning
 
 - [Data Lakehouse on OCI](./docs/data_lakehouse.md)
+- [Oracle Machine Learning](./docs/machine_learning.md)
