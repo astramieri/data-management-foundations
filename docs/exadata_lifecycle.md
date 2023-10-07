@@ -18,3 +18,9 @@ Backups follow a seven-day cycle, consisting of one full backup of the database,
 
 The retention period defines the period for which backups are maintained. Backups to cloud storage are maintained based on the retention choice of 7, 15, 30, 45, or 60 days. 
 The backup data is automatically encrypted using Oracle Transparent Data Encryption. 
+
+## Maintenance Responsibilities
+
+Oracle is responsible for infrastructure maintenance. This includes the physical database and storage servers, VM hosts, as well as the network fabric. Exadata Cloud Service infrastructure updates are released on a quarterly basis and customers can schedule infrastructure maintenance with Oracle. Updating the Exadata OS image, Grid Infrastructure, and databases is the customer's responsibility. Oracle provides cloud user controlled cloud automation to perform these updates.
+
+![Alt text](../images/exadata_maintenance.png)
