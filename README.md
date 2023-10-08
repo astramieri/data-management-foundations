@@ -46,3 +46,7 @@ Exadata & DBCS
 - [Exadata deployment options](./docs/exadata_deployment.md)
 - [Exadata Lifecycle Managment](./docs/exadata_lifecycle.md)
 - [DBCS Offering](./docs/dbcs_offering.md)
+
+Upgrade & Migrations
+
+- [Migration](./docs/migration.md)
