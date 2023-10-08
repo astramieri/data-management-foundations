@@ -50,3 +50,4 @@ Exadata & DBCS
 Upgrade & Migrations
 
 - [Migration](./docs/migration.md)
+- [Upgrade](./docs/upgrade.md)
