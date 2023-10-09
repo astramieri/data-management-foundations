@@ -28,6 +28,7 @@ MySQL & NoSQL
 
 - [MySQL Data Service](./docs/mysql_data_service.md)
 - [MDS Architecture](./docs/mds_architecture.md)
+- [MDS Operations](./docs/mds_operations.md)
 
 Developing on Oracle Database
 
