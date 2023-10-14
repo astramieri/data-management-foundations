@@ -24,4 +24,4 @@ We have functions that move data from sources to outcomes. The process is taking
 Data Catalog is the source of truth for Object Store metadata:
 - harvest object storage to derive schemas
 - manage business glossary, terms, and tags
-- discover data using powerfule search
+- discover data using powerfull search

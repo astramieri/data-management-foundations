@@ -1,8 +1,6 @@
 # Data Mesh Architecture
 
-Data Mesh aims to improve business outcomes by driving more data-centric solutions. Much like what we've been talking about lately and also encourages our customers to take a more modern approach to their data architecture.
-
-A mindset shift is the most important first step toward using Data Mesh.
+Data Mesh aims to improve business outcomes by driving more data-centric solutions. A mindset shift is the most important first step toward using Data Mesh.
 
 **Design Thinking** methodologies bring proven techniques that help break down the organizational silos frequently blocking cross-functional innovation. 
 

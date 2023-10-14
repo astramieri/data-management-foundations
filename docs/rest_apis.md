@@ -22,7 +22,7 @@ ORDS runs in a Java servlet or it can be run within Tomcat or WebLogic Server (W
 
 To get started using ORDS:
 1. install ORDS (run the installer)
-2. enable the DP API
+2. enable the DB API
 3. REST-enable an Oracle User
 4. Browse the DB API Service Documentation
 
