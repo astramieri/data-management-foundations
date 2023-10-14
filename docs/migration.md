@@ -22,7 +22,7 @@ Migration Types:
 
 ## Oracle Solutions to Migrate Database to Oracle Cloud
 
-For OCI Data Migration, DMS, our focus is ease of use. We're based on zero downtime migration. 
+For OCI Database Migration (DMS) the focus is ease of use. We're based on zero downtime migration. 
 
 In Zero Downtime Migration (ZDM) you get more fine-grained control. You have more options that you can choose from. ZDM does support non-autonomous targets and also migration to ExaCC. So you can still install ZDM on-premises and do basically an on-premises to ExaCC migration. This is not possible with OCI Database Migration, DMS.
 
