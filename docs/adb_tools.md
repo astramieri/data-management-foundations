@@ -8,7 +8,7 @@ Autonomous Database comes with a sophisticated suite of tools pre-installed. The
 
 **Analytic Views** built into the Oracle database provide a common framework for defining universally accessible **Semantic Models**.
 
-**Oracle Analytic Cloud (OAC)** is a perfect complement, providing beautiful and insightful analysis of this data. 
+**Oracle Analytics Cloud (OAC)** is a perfect complement, providing beautiful and insightful analysis of this data. 
 
 ![Integrated Tools Benefits](../images/integration_benefits.png)
 

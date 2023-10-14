@@ -51,7 +51,7 @@ Data Lake, Data Warehouse, Machine Learning
 
 Exadata & DBCS
 
-- [Exadata deployment options](./docs/exadata_deployment.md)
+- [Exadata Deployment Options](./docs/exadata_deployment.md)
 - [Exadata Lifecycle Managment](./docs/exadata_lifecycle.md)
 - [DBCS Offering](./docs/dbcs_offering.md)
 
