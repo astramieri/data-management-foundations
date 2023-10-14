@@ -30,6 +30,7 @@ MySQL & NoSQL
 - [MDS Architecture](./docs/mds_architecture.md)
 - [MDS Operations](./docs/mds_operations.md)
 - [HeatWave](./docs/heatwave.md)
+- [NoSQL Database Cloud Service](./docs/nosql.md)
 
 Developing on Oracle Database
 
