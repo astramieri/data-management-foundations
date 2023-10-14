@@ -2,7 +2,7 @@
 
 Application Development has become more and more complex. Developers face a whole new set of requirements for enterprise apps. Apps not only had to capture information on what customers were doing, but they had to also anticipate customers' needs, and allow the business to create value or insights from data in real time.
 
-These modern or data-driven apps operate on a diverse set of data-- spatial, documents, sensor, transactional, pulled from multiple sources, often in real-time, and they create value from that data in very different ways compared to traditional applications. 
+These modern or data-driven apps operate on a diverse set of data (spatial, documents, sensor, transactional, etc.) pulled from multiple sources, often in real-time, and they create value from that data in very different ways compared to traditional applications. 
 
 Data-driven apps are often built using new data-driven development methodologies or paradigms to help accelerate the development process. These apps also need to be developed and enhanced using continuous delivery as they're often 24/7 applications. They can't afford to take any downtime for patching.
 

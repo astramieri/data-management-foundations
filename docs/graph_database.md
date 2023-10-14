@@ -1,7 +1,7 @@
 # Graph Database
 
 Properties of a **Graph Data Model**:
-- collections of points (vertices) and lines between thos points (edge)
+- collections of points (vertices) and lines between those points (edge)
 - vertices and edge can have properties
 
 What can you do with graphs ?
@@ -18,7 +18,7 @@ What can you do with graphs ?
 
 ## Oracle Graph
 
-Oracle Graph provides all of the functionality and flexibility we've discussed so far. It is **free** and **included** in all Oracle database editions.
+It is **free** and **included** in all Oracle database editions.
 
 Oracle Graph consists of:
 - a means to model and store your graph data
